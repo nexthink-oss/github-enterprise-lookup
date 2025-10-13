@@ -1,6 +1,6 @@
 module github.com/nexthink-oss/github-enterprise-lookup
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/beatlabs/github-auth v0.0.0-20230511110449-0a8b9e608b75
@@ -8,7 +8,7 @@ require (
 	github.com/shurcooL/githubv4 v0.0.0-20230424031643-6cea62ecd5a9
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.16.0
-	golang.org/x/oauth2 v0.27.0
+	golang.org/x/oauth2 v0.32.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
