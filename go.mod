@@ -1,6 +1,6 @@
 module github.com/nexthink-oss/github-enterprise-lookup
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/beatlabs/github-auth v0.0.0-20230511110449-0a8b9e608b75
@@ -25,7 +25,7 @@ require (
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/text v0.28.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 )
